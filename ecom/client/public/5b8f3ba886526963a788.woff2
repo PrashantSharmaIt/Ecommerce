@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'CustomFont';
+  src: url('/fonts/5b8f3ba886526963a788.woff2') format('woff2'),
+       url('/fonts/c14093cee8c440c1884e.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
