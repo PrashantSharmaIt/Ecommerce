@@ -45,7 +45,6 @@ Start the server and client (have added concurrently)
 ```bash
   npm run dev
 ```
-```
 View locally at http://localhost:3000
 
 ## Deployment
